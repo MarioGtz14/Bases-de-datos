@@ -1,0 +1,127 @@
+Género,Edad,Trabaja,Facultad,Horas al día en Cd. Universitaria,Jugo natural,Agua embotellada,Refresco,Café,Frappé,Smoothie,Licuado,Agua natural de fruta,Frecuencia de ir a un snack,Dinero gastado en el snack,Ha ido al snack de Filosofía ,Quiere snack 
+Femenino,21,Si,FCQ,4,Me gusta,Me gusta,Me gusta,Me gusta poco,Me gusta,Me gusta mucho,Me gusta mas o menos,Me gusta mas o menos,mas de 2 veces,de 25 a 50,No,Si
+Femenino,20,Si,Otra,5,Me gusta,Me gusta poco,Me gusta,No me gusta,No me gusta,Me gusta,Me gusta poco,Me gusta mas o menos,0 veces,de 0 a 25,Si,Si
+Femenino,20,Si,FCQ,5,No me gusta,Me gusta,Me gusta mas o menos,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,No me gusta,2 veces,de 50 a 75,No,Si
+Femenino,21,Si,FCQ,3,Me gusta mucho,Me gusta mucho,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta,Me gusta,Me gusta,2 veces,de 25 a 50,Si,Si
+Femenino,18,Si,FCQ,5,Me gusta mucho,Me gusta mucho,No me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta,Me gusta mucho,Me gusta mucho,mas de 2 veces,de 25 a 50,No,Si
+Femenino,22,Si,FCQ,3,Me gusta mucho,Me gusta,Me gusta mas o menos,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,1 vez,de 25 a 50,No,Si
+Femenino,20,No,FCQ,6,Me gusta mucho,Me gusta mucho,Me gusta mas o menos,No me gusta,No me gusta,Me gusta mucho,Me gusta,Me gusta,0 veces,de 0 a 25,No,Si
+Femenino,19,No,FCQ,8,Me gusta mas o menos,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta,Me gusta mas o menos,Me gusta poco,2 veces,de 25 a 50,No,Si
+Femenino,19,No,FCQ,5,Me gusta mas o menos,Me gusta,Me gusta mas o menos,Me gusta poco,No me gusta,No me gusta,No me gusta,No me gusta,mas de 2 veces,de 50 a 75,Si,No
+Femenino,22,No,FCQ,6,Me gusta mas o menos,Me gusta poco,Me gusta poco,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,2 veces,de 50 a 75,Si,Si
+Femenino,18,No,FCQ,6,Me gusta,Me gusta mucho,Me gusta,Me gusta,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta,2 veces,de 0 a 25,Si,Si
+Femenino,20,No,FCQ,4,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta poco,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,1 vez,de 0 a 25,No,Si
+Femenino,21,No,FCQ,10,No me gusta,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,0 veces,de 0 a 25,Si,Si
+Femenino,19,No,FCQ,7,Me gusta,No me gusta,Me gusta mas o menos,Me gusta poco,Me gusta,Me gusta mucho,Me gusta mas o menos,Me gusta mas o menos,mas de 2 veces,de 25 a 50,No,Si
+Femenino,18,No,Otra,6,Me gusta mucho,Me gusta,Me gusta,Me gusta poco,Me gusta,Me gusta mucho,Me gusta mas o menos,Me gusta mucho,1 vez,de 50 a 75,Si,Si
+Femenino,20,No,FCQ,5,No me gusta,Me gusta mucho,Me gusta,Me gusta poco,No me gusta,No me gusta,Me gusta mas o menos,No me gusta,mas de 2 veces,de 50 a 75,No,Si
+Femenino,18,No,FCQ,7,Me gusta mucho,Me gusta mucho,Me gusta,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,0 veces,de 0 a 25,Si,Si
+Masculino,21,Si,FCQ,4,Me gusta,Me gusta mucho,No me gusta,No me gusta,No me gusta,Me gusta poco,Me gusta poco,Me gusta mas o menos,mas de 2 veces,de 0 a 25,Si,Si
+Masculino,20,Si,FCQ,6,Me gusta mas o menos,Me gusta mucho,No me gusta,Me gusta poco,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta,1 vez,de 25 a 50,No,Si
+Masculino,21,Si,FCQ,5,Me gusta,Me gusta mucho,No me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta,Me gusta,Me gusta,mas de 2 veces,de 50 a 75,Si,Si
+Masculino,19,No,FCQ,5,Me gusta mucho,Me gusta,Me gusta poco,No me gusta,Me gusta mucho,Me gusta mucho,Me gusta mas o menos,Me gusta mucho,mas de 2 veces,de 25 a 50,No,Si
+Masculino,20,No,FCQ,7,Me gusta mas o menos,Me gusta mucho,Me gusta mucho,Me gusta,No me gusta,No me gusta,Me gusta mucho,Me gusta mucho,mas de 2 veces,de 25 a 50,Si,Si
+Masculino,21,No,FCQ,7,Me gusta poco,Me gusta mucho,Me gusta poco,No me gusta,No me gusta,Me gusta poco,No me gusta,Me gusta mas o menos,1 vez,de 25 a 50,No,Si
+Masculino,21,No,FCQ,5,Me gusta,Me gusta,No me gusta,Me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta poco,Me gusta mas o menos,2 veces,de 50 a 75,Si,Si
+Masculino,22,No,FCFM,10,Me gusta mucho,Me gusta,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta poco,1 vez,de 25 a 50,Si,Si
+Femenino,18,No,FCFM,5,No me gusta,Me gusta mucho,Me gusta poco,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta poco,2 veces,de 0 a 25,No,Si
+Masculino,20,Si,FCQ,10,Me gusta poco,Me gusta mucho,Me gusta,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,1 vez,de 25 a 50,No,Si
+Masculino,20,No,FCQ,7,No me gusta,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta poco,Me gusta,0 veces,de 0 a 25,No,No
+Femenino,18,No,FCQ,12,Me gusta mas o menos,Me gusta mucho,Me gusta poco,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,1 vez,de 50 a 75,No,Si
+Femenino,18,No,FCQ,4,Me gusta mas o menos,Me gusta poco,Me gusta poco,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,Me gusta,2 veces,de 25 a 50,No,Si
+Femenino,18,No,FCQ,6,Me gusta mas o menos,Me gusta poco,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,2 veces,de 25 a 50,No,Si
+Masculino,17,No,Otra,5,Me gusta poco,Me gusta,Me gusta poco,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,2 veces,de 50 a 75,No,Si
+Masculino,20,No,FCQ,7,Me gusta poco,Me gusta poco,Me gusta mas o menos,No me gusta,No me gusta,Me gusta poco,No me gusta,No me gusta,0 veces,de 0 a 25,Si,Si
+Femenino,28,Si,Otra,1,No me gusta,Me gusta,Me gusta mas o menos,Me gusta mucho,Me gusta poco,Me gusta poco,Me gusta mas o menos,Me gusta mucho,0 veces,de 25 a 50,No,Si
+Femenino,16,No,FCQ,8,Me gusta poco,Me gusta mas o menos,Me gusta poco,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,Me gusta mas o menos,0 veces,de 0 a 25,No,Si
+Masculino,18,No,FCQ,9,Me gusta,Me gusta mucho,No me gusta,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta,mas de 2 veces,de 50 a 75,No,Si
+Masculino,28,No,Otra,8,Me gusta mas o menos,Me gusta mas o menos,Me gusta,No me gusta,Me gusta poco,No me gusta,No me gusta,Me gusta mas o menos,0 veces,de 50 a 75,No,Si
+Masculino,16,No,FCQ,8,Me gusta mas o menos,Me gusta,Me gusta mas o menos,Me gusta poco,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta,1 vez,de 25 a 50,No,Si
+Femenino,20,No,FCQ,8,No me gusta,No me gusta,Me gusta poco,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,mas de 2 veces,de 50 a 75,Si,Si
+Femenino,18,No,FCQ,7,Me gusta mas o menos,Me gusta mucho,No me gusta,Me gusta poco,Me gusta poco,Me gusta poco,No me gusta,Me gusta mas o menos,mas de 2 veces,de 0 a 25,Si,Si
+Masculino,19,No,FCQ,5,Me gusta mas o menos,Me gusta mas o menos,Me gusta mucho,No me gusta,Me gusta poco,Me gusta poco,No me gusta,Me gusta poco,2 veces,de 25 a 50,No,Si
+Masculino,17,No,FCQ,6,Me gusta mas o menos,Me gusta mucho,No me gusta,No me gusta,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta,1 vez,de 50 a 75,No,Si
+Femenino,18,No,FCQ,7,Me gusta mucho,Me gusta mucho,Me gusta poco,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,Me gusta mas o menos,1 vez,de 50 a 75,No,Si
+Masculino,17,No,FCQ,7,Me gusta mas o menos,Me gusta mucho,No me gusta,Me gusta mas o menos,Me gusta poco,Me gusta poco,Me gusta poco,Me gusta mas o menos,mas de 2 veces,mas de 75,No,Si
+Femenino,17,No,Otra,21,Me gusta,Me gusta mucho,No me gusta,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta mucho,2 veces,de 25 a 50,Si,Si
+Femenino,19,No,Otra,10,Me gusta poco,Me gusta,Me gusta,No me gusta,No me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta,1 vez,de 0 a 25,Si,Si
+Femenino,20,Si,FCQ,5,Me gusta,Me gusta poco,No me gusta,Me gusta,No me gusta,No me gusta,No me gusta,Me gusta,mas de 2 veces,de 25 a 50,No,Si
+Masculino,18,No,FCQ,6,Me gusta poco,Me gusta mucho,Me gusta poco,Me gusta poco,Me gusta mas o menos,Me gusta poco,No me gusta,Me gusta poco,2 veces,de 25 a 50,No,Si
+Femenino,18,No,FCQ,12,Me gusta,No me gusta,Me gusta mas o menos,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mas o menos,Me gusta poco,mas de 2 veces,de 50 a 75,No,Si
+Masculino,17,No,FCQ,7,Me gusta mas o menos,Me gusta,Me gusta poco,Me gusta poco,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,2 veces,de 25 a 50,No,Si
+Masculino,19,No,FCFM,NA,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta mucho,No me gusta,Me gusta mas o menos,Me gusta poco,No me gusta,1 vez,de 25 a 50,Si,No
+Femenino,NA,Si,FCFM,5,Me gusta poco,Me gusta mas o menos,Me gusta,Me gusta poco,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta poco,1 vez,de 50 a 75,Si,Si
+Femenino,25,Si,Otra,12,Me gusta mucho,Me gusta mucho,Me gusta mucho,No me gusta,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,mas de 2 veces,mas de 75,Si,Si
+Masculino,18,No,FCFM,9,No me gusta,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,Me gusta mucho,0 veces,de 25 a 50,No,No
+Femenino,19,No,FCFM,10,Me gusta poco,Me gusta mucho,Me gusta poco,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta poco,1 vez,de 25 a 50,Si,Si
+Femenino,18,No,FCFM,10,Me gusta poco,Me gusta,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta,2 veces,de 25 a 50,Si,Si
+Femenino,19,No,FCFM,12,Me gusta mucho,Me gusta mucho,Me gusta poco,No me gusta,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta mucho,1 vez,de 50 a 75,Si,Si
+Femenino,18,No,FCFM,5,Me gusta mas o menos,Me gusta mucho,Me gusta mas o menos,No me gusta,No me gusta,Me gusta poco,Me gusta poco,Me gusta mas o menos,1 vez,de 50 a 75,No,Si
+Masculino,22,No,FCFM,10,Me gusta poco,Me gusta mas o menos,No me gusta,Me gusta mas o menos,Me gusta poco,Me gusta poco,Me gusta mas o menos,Me gusta,mas de 2 veces,de 25 a 50,Si,Si
+Masculino,18,No,FCFM,9,Me gusta poco,Me gusta mucho,No me gusta,No me gusta,Me gusta poco,Me gusta poco,Me gusta poco,Me gusta,mas de 2 veces,de 0 a 25,No,Si
+Femenino,20,No,FCFM,9,Me gusta poco,Me gusta mucho,No me gusta,No me gusta,Me gusta poco,Me gusta mas o menos,No me gusta,No me gusta,0 veces,de 0 a 25,No,Si
+Femenino,19,No,FCFM,7,Me gusta mucho,Me gusta poco,Me gusta mas o menos,No me gusta,Me gusta mas o menos,Me gusta,Me gusta mas o menos,Me gusta,2 veces,de 50 a 75,No,Si
+Femenino,20,No,FCFM,7,No me gusta,No me gusta,Me gusta,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,1 vez,de 0 a 25,No,Si
+Femenino,22,No,FCFM,2,Me gusta mas o menos,Me gusta mas o menos,Me gusta,No me gusta,No me gusta,Me gusta poco,Me gusta poco,Me gusta poco,0 veces,de 25 a 50,No,Si
+Femenino,25,Si,FCFM,12,No me gusta,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,0 veces,de 0 a 25,Si,Si
+Masculino,19,No,Otra,8,Me gusta mucho,Me gusta mucho,No me gusta,Me gusta mucho,Me gusta mucho,Me gusta poco,Me gusta mucho,Me gusta mucho,1 vez,de 25 a 50,Si,Si
+Masculino,22,No,FCFM,8,Me gusta mucho,Me gusta mucho,Me gusta mas o menos,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta mucho,2 veces,de 25 a 50,No,Si
+Masculino,19,No,FCFM,6,No me gusta,Me gusta mas o menos,Me gusta mucho,No me gusta,No me gusta,Me gusta poco,No me gusta,Me gusta mas o menos,mas de 2 veces,de 25 a 50,No,Si
+Femenino,19,No,FCFM,8,No me gusta,No me gusta,Me gusta,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,1 vez,de 25 a 50,Si,Si
+Femenino,10,Si,Otra,5,Me gusta poco,Me gusta mucho,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,Me gusta poco,mas de 2 veces,mas de 75,Si,Si
+Masculino,23,Si,FCFM,6,Me gusta mas o menos,Me gusta,Me gusta,No me gusta,Me gusta mas o menos,Me gusta poco,No me gusta,Me gusta poco,0 veces,de 25 a 50,No,Si
+Femenino,22,Si,FCFM,12,Me gusta,Me gusta mas o menos,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta,Me gusta,Me gusta mucho,mas de 2 veces,de 25 a 50,No,Si
+Femenino,37,Si,Otra,NA,Me gusta mucho,Me gusta mucho,Me gusta,Me gusta poco,Me gusta poco,Me gusta mas o menos,Me gusta,Me gusta,0 veces,de 0 a 25,Si,Si
+Femenino,22,No,FCFM,5,Me gusta mucho,Me gusta mucho,Me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta,Me gusta mucho,Me gusta mucho,1 vez,de 25 a 50,Si,Si
+Femenino,18,No,FCQ,10,Me gusta,Me gusta mas o menos,No me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta poco,Me gusta poco,Me gusta mucho,mas de 2 veces,de 25 a 50,No,Si
+Femenino,22,No,FCFM,3,No me gusta,Me gusta mas o menos,Me gusta,No me gusta,No me gusta,Me gusta poco,No me gusta,No me gusta,2 veces,de 0 a 25,No,Si
+Masculino,17,No,FCFM,6,No me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,1 vez,de 25 a 50,No,Si
+Masculino,24,Si,FCFM,6,Me gusta mas o menos,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta poco,No me gusta,Me gusta poco,Me gusta,1 vez,de 50 a 75,Si,Si
+Femenino,22,No,FCFM,10,Me gusta mucho,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,0 veces,de 25 a 50,Si,Si
+Femenino,23,No,FCFM,6,Me gusta,Me gusta mucho,Me gusta,Me gusta mucho,Me gusta,Me gusta poco,Me gusta mucho,Me gusta mucho,1 vez,de 25 a 50,Si,Si
+Femenino,22,No,FCFM,5,Me gusta mucho,Me gusta,Me gusta mucho,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,Me gusta,1 vez,de 25 a 50,No,Si
+Masculino,24,Si,FCFM,6,Me gusta mas o menos,Me gusta mucho,Me gusta poco,Me gusta,Me gusta poco,Me gusta poco,Me gusta,Me gusta mucho,0 veces,de 50 a 75,Si,Si
+Masculino,25,Si,FCFM,6,Me gusta mas o menos,Me gusta,Me gusta mas o menos,Me gusta mucho,No me gusta,No me gusta,Me gusta poco,Me gusta mas o menos,mas de 2 veces,de 50 a 75,No,Si
+Masculino,23,No,FCFM,9,Me gusta mas o menos,Me gusta mucho,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta mas o menos,Me gusta,Me gusta mas o menos,2 veces,de 25 a 50,Si,Si
+Femenino,18,No,FCFM,5,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta poco,Me gusta poco,No me gusta,No me gusta,Me gusta mas o menos,mas de 2 veces,de 25 a 50,No,Si
+Masculino,20,No,FCFM,8,Me gusta,Me gusta,Me gusta poco,Me gusta poco,Me gusta poco,Me gusta mas o menos,No me gusta,Me gusta mucho,2 veces,de 25 a 50,Si,Si
+Femenino,20,Si,FCFM,5,Me gusta,Me gusta,Me gusta mas o menos,No me gusta,No me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta,mas de 2 veces,de 25 a 50,No,Si
+Femenino,23,Si,FCFM,9,Me gusta mucho,Me gusta mucho,Me gusta mas o menos,Me gusta mucho,Me gusta mucho,No me gusta,No me gusta,Me gusta mas o menos,1 vez,de 50 a 75,Si,Si
+Femenino,19,No,FCQ,7,Me gusta,Me gusta,Me gusta mucho,Me gusta,Me gusta,Me gusta mucho,Me gusta mas o menos,Me gusta mas o menos,mas de 2 veces,de 50 a 75,Si,Si
+Masculino,20,Si,Otra,5,Me gusta mucho,Me gusta poco,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta,Me gusta mucho,mas de 2 veces,de 0 a 25,Si,Si
+Femenino,17,Si,FCFM,12,Me gusta mucho,Me gusta mucho,No me gusta,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,mas de 2 veces,de 50 a 75,No,Si
+Masculino,20,No,FCB,11,Me gusta mucho,Me gusta mucho,Me gusta poco,Me gusta,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta poco,2 veces,de 0 a 25,No,Si
+Masculino,21,Si,FCQ,4,Me gusta mucho,Me gusta mucho,Me gusta poco,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,1 vez,de 25 a 50,No,Si
+Femenino,21,No,FCFM,7,Me gusta,Me gusta,Me gusta,Me gusta poco,Me gusta mas o menos,Me gusta,Me gusta mas o menos,Me gusta,0 veces,de 25 a 50,No,No
+Femenino,21,Si,FCQ,4,Me gusta mucho,Me gusta mucho,Me gusta mucho,No me gusta,Me gusta mas o menos,Me gusta mucho,Me gusta mucho,Me gusta mucho,mas de 2 veces,de 25 a 50,No,Si
+Femenino,24,Si,Otra,NA,Me gusta mucho,Me gusta mucho,No me gusta,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta,1 vez,de 25 a 50,No,Si
+Masculino,19,No,FCB,7,Me gusta mucho,Me gusta mucho,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,Me gusta mas o menos,Me gusta,Me gusta mucho,1 vez,de 25 a 50,Si,Si
+Femenino,18,No,Otra,10,Me gusta,Me gusta,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta poco,1 vez,de 25 a 50,No,Si
+Femenino,21,No,FCFM,9,Me gusta,Me gusta mas o menos,Me gusta poco,Me gusta mucho,Me gusta mucho,Me gusta,Me gusta mucho,Me gusta mas o menos,2 veces,de 50 a 75,Si,Si
+Femenino,23,Si,FCQ,3,Me gusta,Me gusta mas o menos,Me gusta mas o menos,No me gusta,Me gusta mas o menos,Me gusta poco,No me gusta,No me gusta,0 veces,de 0 a 25,No,Si
+Femenino,22,Si,FCB,5,Me gusta mucho,Me gusta,No me gusta,Me gusta poco,No me gusta,No me gusta,Me gusta poco,Me gusta,1 vez,de 25 a 50,Si,Si
+Masculino,21,No,FCB,8,Me gusta mas o menos,Me gusta,Me gusta mas o menos,Me gusta poco,Me gusta poco,Me gusta poco,No me gusta,Me gusta poco,1 vez,mas de 75,Si,Si
+Femenino,20,No,FCB,7,No me gusta,Me gusta mas o menos,Me gusta,No me gusta,Me gusta poco,Me gusta mas o menos,Me gusta poco,No me gusta,mas de 2 veces,de 50 a 75,Si,Si
+Masculino,20,No,FCB,7,Me gusta mas o menos,Me gusta,Me gusta poco,Me gusta poco,Me gusta poco,Me gusta,Me gusta poco,Me gusta poco,mas de 2 veces,de 50 a 75,No,Si
+Masculino,19,No,FCB,8,Me gusta poco,Me gusta,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,1 vez,de 25 a 50,No,Si
+Femenino,20,Si,FCB,5,Me gusta mas o menos,Me gusta mas o menos,Me gusta poco,Me gusta mucho,No me gusta,No me gusta,Me gusta poco,Me gusta mas o menos,0 veces,de 25 a 50,No,Si
+Femenino,22,No,Otra,5,Me gusta poco,Me gusta mas o menos,Me gusta,No me gusta,Me gusta poco,Me gusta poco,Me gusta mas o menos,Me gusta poco,0 veces,de 0 a 25,Si,Si
+Masculino,20,No,Otra,7,Me gusta mas o menos,Me gusta,Me gusta poco,No me gusta,Me gusta poco,Me gusta mas o menos,No me gusta,No me gusta,mas de 2 veces,de 50 a 75,Si,Si
+Masculino,20,No,FCB,8,Me gusta,Me gusta mucho,Me gusta poco,No me gusta,No me gusta,Me gusta mas o menos,No me gusta,Me gusta,1 vez,de 25 a 50,Si,Si
+Masculino,20,No,FCB,9,Me gusta,Me gusta poco,Me gusta mucho,Me gusta mas o menos,Me gusta poco,Me gusta poco,Me gusta,Me gusta mucho,2 veces,de 50 a 75,No,Si
+Femenino,21,No,FCB,7,Me gusta mas o menos,Me gusta,Me gusta mucho,Me gusta mucho,Me gusta mucho,Me gusta mas o menos,No me gusta,No me gusta,2 veces,de 50 a 75,Si,Si
+Femenino,23,No,FCB,8,Me gusta poco,Me gusta mas o menos,Me gusta mas o menos,No me gusta,Me gusta poco,Me gusta,Me gusta poco,Me gusta poco,mas de 2 veces,de 25 a 50,Si,Si
+Femenino,21,No,FCB,8,Me gusta poco,Me gusta mucho,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta poco,mas de 2 veces,de 25 a 50,Si,Si
+Masculino,19,No,FCB,7,Me gusta poco,Me gusta,Me gusta mas o menos,No me gusta,Me gusta poco,Me gusta,No me gusta,No me gusta,mas de 2 veces,de 25 a 50,Si,Si
+Femenino,20,Si,FCB,6,Me gusta mas o menos,Me gusta mucho,Me gusta mucho,No me gusta,Me gusta,Me gusta mas o menos,No me gusta,Me gusta mas o menos,1 vez,de 25 a 50,No,Si
+Masculino,21,No,FCB,4,No me gusta,Me gusta mucho,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,No me gusta,1 vez,de 25 a 50,No,Si
+Masculino,21,No,FCB,8,Me gusta poco,Me gusta poco,Me gusta mas o menos,No me gusta,Me gusta poco,Me gusta poco,No me gusta,No me gusta,2 veces,de 0 a 25,Si,Si
+Femenino,20,No,FCB,6,Me gusta mas o menos,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta poco,1 vez,de 25 a 50,Si,Si
+Femenino,21,No,FCB,9,Me gusta mas o menos,Me gusta mucho,Me gusta poco,No me gusta,Me gusta mas o menos,Me gusta mas o menos,No me gusta,Me gusta mas o menos,2 veces,de 25 a 50,Si,Si
+Femenino,21,No,FCB,6,Me gusta poco,Me gusta,Me gusta poco,No me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta mas o menos,Me gusta poco,2 veces,de 50 a 75,Si,Si
+Masculino,20,No,FCB,8,Me gusta poco,Me gusta,No me gusta,No me gusta,Me gusta poco,Me gusta mas o menos,No me gusta,Me gusta poco,1 vez,de 0 a 25,No,Si
+Femenino,22,Si,FCB,5,Me gusta,Me gusta mucho,Me gusta poco,Me gusta poco,No me gusta,Me gusta poco,No me gusta,Me gusta,1 vez,de 50 a 75,No,Si
+Femenino,20,No,FCB,8,No me gusta,Me gusta mas o menos,Me gusta mas o menos,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,mas de 2 veces,de 0 a 25,Si,Si
+Femenino,19,No,FCB,10,Me gusta poco,Me gusta mas o menos,Me gusta mucho,No me gusta,No me gusta,No me gusta,No me gusta,Me gusta mas o menos,mas de 2 veces,de 50 a 75,Si,Si
+Femenino,18,No,FCB,7,Me gusta poco,Me gusta mas o menos,Me gusta mucho,No me gusta,Me gusta mas o menos,Me gusta mas o menos,Me gusta poco,Me gusta poco,mas de 2 veces,de 50 a 75,No,Si
+Masculino,20,No,FCB,8,No me gusta,Me gusta mucho,Me gusta mas o menos,No me gusta,Me gusta poco,Me gusta,No me gusta,Me gusta mas o menos,mas de 2 veces,de 25 a 50,Si,Si
